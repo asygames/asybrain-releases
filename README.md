@@ -6,7 +6,7 @@ Public downloads for the AsyBrain native Connector, desktop Agent and installer 
 
 | Product | Current download | Update channel |
 | --- | --- | --- |
-| Background Connector — Windows x64 / Linux x64 | [Connector 0.2.56](https://github.com/asygames/asybrain-releases/releases/tag/asybrain-connector-v0.2.56) | [Signed stable manifest](https://github.com/asygames/asybrain-releases/releases/download/asybrain-connector-stable/latest.json) |
+| Background Connector — Windows x64 / Linux x64 | [Connector 0.2.57](https://github.com/asygames/asybrain-releases/releases/tag/asybrain-connector-v0.2.57) | [Signed stable manifest](https://github.com/asygames/asybrain-releases/releases/download/asybrain-connector-stable/latest.json) |
 | Installer scripts — PowerShell, CMD and Linux | [Installer 0.1.2](https://github.com/asygames/asybrain-releases/releases/tag/asybrain-installer-v0.1.2) | [Installer channel](https://github.com/asygames/asybrain-releases/releases/tag/asybrain-installer-stable) |
 | Desktop Agent — historical desktop client | [Desktop releases](CATALOG.md#desktop-agent) | [Signed desktop manifest](https://github.com/asygames/asybrain-releases/releases/download/asybrain-agent-stable/latest.json) |
 | AsyIndex Hub — retired | [Historical downloads](CATALOG.md#asyindex-hub-archive) | Archive only; no maintained automatic updates |

@@ -1,13 +1,14 @@
 # Release catalog
 
-Inventory: 2026-10-18. Historical releases and assets are retained unchanged.
+Inventory: 2026-10-20. Historical releases and assets are retained unchanged.
 
-216 releases; 800 assets. The migration baseline contained 215 releases and 794 assets; installer 0.1.2 adds one release and six assets.
+217 releases; 806 assets. The migration baseline contained 215 releases and 794 assets.
 
 ## Background Connector
 
 | Release | Published (UTC) | Assets | Bytes |
 | --- | --- | ---: | ---: |
+| [asybrain-connector-v0.2.57](https://github.com/asygames/asybrain-releases/releases/tag/asybrain-connector-v0.2.57) | 2026-10-20 | 6 | 49663202 |
 | [asybrain-connector-v0.2.56](https://github.com/asygames/asybrain-releases/releases/tag/asybrain-connector-v0.2.56) | 2026-10-18 | 6 | 49431483 |
 | [asybrain-connector-v0.2.55](https://github.com/asygames/asybrain-releases/releases/tag/asybrain-connector-v0.2.55) | 2026-10-18 | 6 | 49511512 |
 | [asybrain-connector-v0.2.54](https://github.com/asygames/asybrain-releases/releases/tag/asybrain-connector-v0.2.54) | 2026-10-16 | 5 | 48551429 |
